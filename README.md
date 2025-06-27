@@ -1,4 +1,4 @@
-# IOT
--
-Tis is an IOT model . It is SMART HOME. 
-It uses esp32. 
+# BLKING LED
+This is a basic Iot project- blinking LED
+It uses ESP32 
+
